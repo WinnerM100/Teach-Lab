@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Teach-Lab-front-project"
+    }
+  },
+  "defaultProject": "Teach-Lab-front-project",
+  "cli": {
+    "analytics": "b5388f80-984f-447d-a8f7-2cec1374b5f3"
+  }
 }
